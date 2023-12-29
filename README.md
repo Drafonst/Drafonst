@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Faundra Pratama Sukma</h1>
 <h3 align="center">An undergraduate IT student from Universitas Gadjah Mada</h3>
-(img align="right" alt="Coding" width="400" src="https://tenor.com/id/view/naruto-gif-22101118")
+
 
 
 
