@@ -2,7 +2,7 @@
 <h3 align="center">An undergraduate IT student from Universitas Gadjah Mada</h3>
 (img align="right" alt="Coding" width="400" src="https://tenor.com/id/view/naruto-gif-22101118")
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=drafonst&label=Profile%20views&color=0e75b6&style=flat" alt="drafonst" /> </p>
+
 
 - 🔭 I’m currently working on **my own project, portfolio website**
 
